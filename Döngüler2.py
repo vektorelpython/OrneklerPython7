@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 14 10:32:05 2019
 
-@author: vektorel
-"""
 #liste = [1,1.1,"deneme",(1,2),{"a":1}]
 #
 #for item in liste:
