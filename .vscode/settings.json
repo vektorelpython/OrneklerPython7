@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\masaustu\\python.exe",
+    "sqltools.connections": [
+        {
+            "database": ".\\nekDB\\chinook.db",
+            "dialect": "SQLite",
+            "name": "deneme"
+        }
+    ]
+}
